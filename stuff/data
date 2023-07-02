@@ -1,0 +1,8 @@
+user :
+
+AsyncStorage.setItem('phoneNumber', phoneNumber);
+
+
+
+
+ride :
